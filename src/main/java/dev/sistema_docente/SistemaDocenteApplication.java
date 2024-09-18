@@ -1,4 +1,4 @@
-package com.docente.sistema_docente;
+package dev.sistema_docente;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
